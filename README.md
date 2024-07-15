@@ -1,1 +1,1 @@
-# pngtoweb
+I Had a problem at my job that i lost too much time doing a certain task , and uploading 1 by 1 to change it do webP with less than 150kb, só a coded a py program that would help me do this in less time. Softwares solving problems are amazing, right?
